@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Category, TransactionFilters } from '../../types';
+import { Category, type TransactionFilters } from '../../types';
 import Button from '../ui/Button';
 
 interface Props {
